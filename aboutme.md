@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Basic information that really does not matter
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Brady Greene. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I can read at an average speed with below average comprehension
+- I'm named after the Brady Bunch
 
 What else do you need?
 
