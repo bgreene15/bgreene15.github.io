@@ -16,7 +16,7 @@ author: Brady Greene
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://bgreene-jekyll.com"
+    - Beautiful Jekyll: "https://bgreene15.github.io/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: ""
 
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://bgreene-jekyll.com"
+url-pretty: "https://bgreene15.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
